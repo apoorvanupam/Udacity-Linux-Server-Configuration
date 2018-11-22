@@ -28,7 +28,7 @@ Enter same passphrase again:
 Your identification has been saved in /home/thecoder/.ssh/id_rsa.
 Your public key has been saved in /home/thecoder/.ssh/id_rsa.pub.
 The key fingerprint is:
-SHA256:HSP7o6B1Yk7wO51mcMdDpZnHvw46RvvjqS5VObjLmQU thecoder@thelappy
+SHA256:re6fDTCdCdnQ6Y0YnbC04E8bCZTY2QEf+cA0WqHXNXE thecoder@thelappy
 The key's randomart image is:
 +---[RSA 2048]----+
 |                 |
